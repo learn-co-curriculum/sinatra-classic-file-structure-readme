@@ -51,4 +51,4 @@ The `public` directory holds our front-end assets. In the example above, it hold
 
 The `spec` directory stores all of our RSpec testing files and configurations. The RSpec configurations are set in `spec/spec_helper.rb`, and the spec files are organized via semantic directories. For example, tests that test models should be stored in a `spec/models` directory.
 
-<a href='https://learn.co/lessons/sinatra-classic-file-structure-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-classic-file-structure-readme' title='Sinatra File Structure'>Sinatra File Structure</a> on Learn.co and start learning to code for free.</p>
